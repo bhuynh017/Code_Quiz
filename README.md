@@ -18,3 +18,5 @@ THEN I can save my initials and my score
 
 ## Challenges
 Creating a game from scratch was difficult and getting each button to be fully functional was difficult as well.
+
+![](Screen%20Shot%202022-09-12%20at%206.16.53%20PM.png)
