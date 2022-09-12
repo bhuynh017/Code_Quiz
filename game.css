@@ -37,12 +37,12 @@ body {
     background: red;
 }
 
-#hud {
+#progress {
     display: flex;
     justify-content: space-between;
 }
 
-.hud-prefix {
+.clock {
     text-align: center;
     font-size: 20px;
 }
