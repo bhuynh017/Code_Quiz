@@ -1,11 +1,9 @@
 var question = document.querySelector('#question');
 var choices = Array.from(document.querySelectorAll('.choice-text'));
-var score = document.querySelector('#score');
 var timeEl = document.querySelector(".time");
 
 var currentQuestion = {}
 var acceptingAnswers = true
-var score = 0
 var questionCounter = 0
 var availableQuestions = {}
 
@@ -52,7 +50,6 @@ var questions = [
     },
 ]
 
-var SCORE_POINTS = 100
 var MAX_QUESTIONS = 5
 
 startGame = () => {
